@@ -24,59 +24,59 @@ Experience
 | **Software Engineering Intern**
 | *Sandia National Laboratories*
 | May 2019 -- Present
-| Consolidated a group of scattered, project build scripts into one maintainable, reproducible, and unit-tested Python script
-| Developed a Python-based shell logger to highlight runtime diagnostics, making obscure build failures simple to debug
-| Collaborated with 6 DevOps engineers to restructure a tightly coupled infrastructure with 10,000+ lines across 121 files and 5 directories to a modular, unit-tested system with ~3,000 lines across 5 files and 2 directories
-| Created a Python utility that reduced time to set up cloud computing resources for CI/CD pipelines by ~90%
-| **Leveraged knowledge** in Python, Linux CLI, Git, Agile Scrum, GitLab, GitLab CI/CD, Jenkins, Unit Testing, DevOps, Containerization, Automation, LaTeX, Microsoft Office, Requirements Analysis, and Software Quality & Maintainability
+| - Consolidated a group of scattered, project build scripts into one maintainable, reproducible, and unit-tested Python script
+| - Developed a Python-based shell logger to highlight runtime diagnostics, making obscure build failures simple to debug
+| - Collaborated with 6 DevOps engineers to restructure a tightly coupled infrastructure with 10,000+ lines across 121 files and 5 directories to a modular, unit-tested system with ~3,000 lines across 5 files and 2 directories
+| - Created a Python utility that reduced time to set up cloud computing resources for CI/CD pipelines by ~90%
+| - **Leveraged knowledge** in Python, Linux CLI, Git, Agile Scrum, GitLab, GitLab CI/CD, Jenkins, Unit Testing, DevOps, Containerization, Automation, LaTeX, Microsoft Office, Requirements Analysis, and Software Quality & Maintainability
 
 | **Master's Thesis: Thermal Nozzle**
 | *Oklahoma State University*
 | Jun 2021 -- Present
-| Developing a small-scale jet engine nozzle that uses hot exhaust gas to preheat fuel
-| Experimentally evaluating fuel preheat effects on engine efficiency, emissions, maintenance costs, and flame stability
-| Leveraged knowledge in Technical Writing, Automation (Macros), Linux, LaTeX, CAD, CFD, Experimental Methods, Excel, Project Management, Research, Jet Engine Cycle Analysis, Thermodynamics, and Heat Transfer
+| - Developing a small-scale jet engine nozzle that uses hot exhaust gas to preheat fuel
+| - Experimentally evaluating fuel preheat effects on engine efficiency, emissions, maintenance costs, and flame stability
+| - Leveraged knowledge in Technical Writing, Automation (Macros), Linux, LaTeX, CAD, CFD, Experimental Methods, Excel, Project Management, Research, Jet Engine Cycle Analysis, Thermodynamics, and Heat Transfer
 
 | **Graduate Research Assistant**
 | *Pratt & Whitney, Oklahoma State University*
 | Aug 2020 -- Present
-| Broadly researched theories of fatigue, thermo-mechanical fatigue (TMF), plasticity, and material properties
-| Constructed low-cycle fatigue test matrix, geometry specifications, and procedures for verification and validation of fatigue models and FEA results
-| **Leveraged knowledge** in Research, Fatigue Models, FEA (ANSYS), Excel, Project Management, Experimental Methods, and Python
+| - Broadly researched theories of fatigue, thermo-mechanical fatigue (TMF), plasticity, and material properties
+| - Constructed low-cycle fatigue test matrix, geometry specifications, and procedures for verification and validation of fatigue models and FEA results
+| - **Leveraged knowledge** in Research, Fatigue Models, FEA (ANSYS), Excel, Project Management, Experimental Methods, and Python
 
 | **Graduate Research Assistant**
 | *Commit Technologies, Oklahoma State University*
 | Jun 2021 -- Jul 2021
-| Gathered requirements from customer and delivered accurate, mesh independent FEA results for structural analysis
-| Reduced computational cost by 60% through restructuring part geometry to use shell elements rather than 3D solid elements
-| Leveraged knowledge in FEA (ANSYS), Research, Requirements Analysis, Technical Writing
+| - Gathered requirements from customer and delivered accurate, mesh independent FEA results for structural analysis
+| - Reduced computational cost by 60% through restructuring part geometry to use shell elements rather than 3D solid elements
+| - Leveraged knowledge in FEA (ANSYS), Research, Requirements Analysis, Technical Writing
 
 | **Winner of NASA University Student Design Challenge**
 | *USDC-4 Aeronautics Challenge II, Oral Roberts University*
 | Sep 2019 -- Apr 2020
-| Performed design and analysis of novel cooling methods, thermal systems integration, and propulsion system sizing for a conceptual electrified aircraft propulsion system while maintaining a minimum factor of safety of 2.68
-| Achieved fuel savings of 6.4% and decreased overall system weight by approximately 20% compared to NASA’s AGTF30
-| Leveraged knowledge in Research, Technical Writing, Thermodynamics, Systems Modeling, and Project Management
+| - Performed design and analysis of novel cooling methods, thermal systems integration, and propulsion system sizing for a conceptual electrified aircraft propulsion system while maintaining a minimum factor of safety of 2.68
+| - Achieved fuel savings of 6.4% and decreased overall system weight by approximately 20% compared to NASA’s AGTF30
+| - Leveraged knowledge in Research, Technical Writing, Thermodynamics, Systems Modeling, and Project Management
 
 | **Honors Research Assistant**
 | *Biovista, Oral Roberts University*
 | Aug 2018 -- Apr 2019
-| Collaborated with a team of engineering students and math/computing professors to explore creative solutions and implement an efficient database system
-| Experimented with various large database systems for our partner company’s database of billions of medical journals 
-| Leveraged knowledge in Python, SQL-style query language (Cypher), and Linux
+| - Collaborated with a team of engineering students and math/computing professors to explore creative solutions and implement an efficient database system
+| - Experimented with various large database systems for our partner company’s database of billions of medical journals 
+| - Leveraged knowledge in Python, SQL-style query language (Cypher), and Linux
 
 | **Lead Machinist**
 | *SpaceX Hyperloop Design Challenge, Oral Roberts University*
 | Jun 2016 -- Feb 2017
-| Led machining efforts for the manufacturing of our team’s competition design
-| Worked with CAM software and CNC mills to automate precision manufacturing processes
+| - Led machining efforts for the manufacturing of our team’s competition design
+| - Worked with CAM software and CNC mills to automate precision manufacturing processes
 
 | **Team Captain**
 | *FIRST Robotics Competition Team 3593*
 | Aug 2015 -- Apr 2016
-| Problem-solved to meet challenges while remaining cost-effective and within design constraints
-| Set goals and directed projects, from fundraising to robot design
-| Gained extensive machining and assembly experience, totaling well over 300 hours
+| - Problem-solved to meet challenges while remaining cost-effective and within design constraints
+| - Set goals and directed projects, from fundraising to robot design
+| - Gained extensive machining and assembly experience, totaling well over 300 hours
 
 Presentations & Publications
 ============================
