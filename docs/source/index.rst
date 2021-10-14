@@ -21,11 +21,11 @@ Graduate Student with a passion for software-based solutions.
 
 Experience in Software Engineering experience includes 2 1/2 yrs as a
 year-round Software Engineering Intern at Sandia National Laboratories,
-personal software projects, and a continuous learning mindset, expoloring
+personal software projects, and a continuous learning mindset, exploring
 technologies like Kubernetes, Machine Learning, and Javascript.
 
 Experience in Mechanical & Aerospace Engineering includes Graduate coursework,
-3 industry-sponored projects, and a Master's Thesis focused on a small-scale
+3 industry-sponsored projects, and a Master's Thesis focused on a small-scale
 turbojet engine.
 
 .. contents::
