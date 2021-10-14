@@ -1,9 +1,7 @@
-Template for the Read the Docs tutorial
-=======================================
+Josh Braun - Professional Website
+=================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This is the GitHub source for my professional website:
+`bbraunj.readthedocs.io`_
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+.. bbraunj.readthedocs.io: bbraunj.readthedocs.io

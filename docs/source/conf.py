@@ -1,13 +1,14 @@
 # Configuration file for the Sphinx documentation builder.
+from datetime import datetime
 
 # -- Project information
 
 project = 'Josh Braun'
-copyright = '2021, bbraunj'
-author = 'bbraunj'
+copyright = '2021, Josh Braun'
+author = 'Josh Braun'
 
-release = '0.1'
-version = '0.1.0'
+now = datetime.now()
+release = version = now.strftime("%Y.%m.%d")
 
 # -- General configuration
 
@@ -26,10 +27,12 @@ intersphinx_mapping = {
 intersphinx_disabled_domains = ['std']
 
 templates_path = ['_templates']
+html_static_path = ['_static']
 
 # -- Options for HTML output
 
 html_theme = 'sphinx_rtd_theme'
+html_logo = "images/Braun_Professional_Photo.png"
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
