@@ -19,10 +19,10 @@ Resume
 My name is Josh Braun, and I am currently a Mechanical & Aerospace Engineering
 Graduate Student with a passion for software-based solutions.
 
-Experience in Software Engineering experience includes 2 1/2 yrs as a
-year-round Software Engineering Intern at Sandia National Laboratories,
-personal software projects, and a continuous learning mindset, exploring
-technologies like Kubernetes, Machine Learning, and Javascript.
+Experience in Software Engineering includes 2 1/2 yrs as a year-round Software
+Engineering Intern at Sandia National Laboratories, personal software projects,
+and a continuous learning mindset, exploring technologies like Kubernetes,
+Machine Learning, and Javascript.
 
 Experience in Mechanical & Aerospace Engineering includes Graduate coursework,
 3 industry-sponsored projects, and a Master's Thesis focused on a small-scale
